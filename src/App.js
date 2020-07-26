@@ -1,5 +1,5 @@
 import React from "react";
-import "./App.css";
+import "./style/App.css";
 import requests from "./requests";
 import Banner from "./Banner";
 import Row from "./Row";
